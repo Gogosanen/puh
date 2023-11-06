@@ -1,0 +1,118 @@
+@font-face {
+    font-family: "Anonymous Pro";
+    src: url(fonts/AnonymousPro-Bold.ttf);
+    font-weight: 700;
+}
+
+@font-face {
+  font-family: "Anonymous Pro";
+  src: url(fonts/AnonymousPro-Regular.ttf);
+}
+
+h1 {
+    font-family: "Anonymous Pro", sans-serif;
+    font-size: 56px;
+}
+
+h2 {
+  font-family: "Anonymous Pro", sans-serif;
+	font-size: 48px;
+}
+
+.container {
+	display: inline-block;
+	margin: 15px;
+}
+
+h3 {
+  font-family: "Anonymous Pro", ;
+	font-size: 26px;
+}
+
+p {
+  font-family: "Anonymous Pro", sans-serif;
+  font-size: 14px;
+}
+
+img {
+	width: 370px;
+}
+
+.header{
+    width: auto;
+    height: 110px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(219, 219, 219, 0.603);
+    
+   
+}
+.vktg{
+    align-items: end;
+    height: 20px;
+    width: auto;
+    margin: 30px 70px 0px 0px;
+}
+.svg{
+    margin-left: 70px;
+    padding-top: 20px;
+}
+.imeg{
+    width: 15px;
+}@media (max-width: 1440px){
+
+}
+.foot{
+  width: auto;
+  height: 142px;
+  background-color: #121723;
+ box-sizing: border-box;
+
+}
+.svgg{
+  padding-left: 150px;
+  padding-top: 30px;
+}
+ul{
+  list-style: none;
+  display: flex;
+  
+}
+.li1{
+  width: 53px;
+  height: 20px;
+}
+.li0{
+  margin-right: 10px;
+}
+.li2{
+  margin-right: 10px;
+}
+.li4{
+  width: 100px;
+  height: 20px;
+}
+li{
+  padding-top: 15px;
+}
+.line{
+ 
+  border: 1px #E6E8EC66 solid;
+  height: 1px;
+  margin: auto;
+ 
+
+}
+.Mark{
+  margin-left: 600px;
+}
+.inic{
+  display: flex;
+ margin-right: 50px;
+}
+.megadiv{
+  display: flex;
+ flex-wrap: wrap;
+}
+
